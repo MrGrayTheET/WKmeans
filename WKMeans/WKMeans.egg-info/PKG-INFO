@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: WKMeans
+Version: 0.0.1
+Summary: Clustering algorithm using Kmeans and Wasserstein distance
+Author-email: Nicholas <nicholas0srs1111@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+This repository is an attempt to emulate the w-Kmeans algorithm from the paper
+Horvath, B., Issa, Z., Muguruza, A. (2021). Clustering Market Regimes using the Wasserstein Distance. arXiv preprint arXiv:2110.11848.
+
+The class operates similarly to the sklearn api in its functionality

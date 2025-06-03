@@ -1,0 +1,9 @@
+pyproject.toml
+WKMeans.egg-info/PKG-INFO
+WKMeans.egg-info/SOURCES.txt
+WKMeans.egg-info/dependency_links.txt
+WKMeans.egg-info/top_level.txt
+docs/README.md
+wkmeans/WKMean.py
+wkmeans/WKUtils.py
+wkmeans/__init__.py
